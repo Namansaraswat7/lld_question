@@ -118,3 +118,8 @@ java -cp src/main/java org.practice.lld.customersupportsystem.CustomerSupportSys
 ```
 
 The demo runs all the example scenarios provided in the requirements and demonstrates the complete functionality.
+
+UML diagram 
+
+<img width="2113" height="1847" alt="CustomerSupportSystemLLD" src="https://github.com/user-attachments/assets/ee863f41-0071-4953-9d5b-09ca909820a7" />
+
